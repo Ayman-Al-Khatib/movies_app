@@ -46,7 +46,6 @@ Through this project, I have gained practical experience in:
 - **[animate_do](https://pub.dev/packages/animate_do)**: ^3.0.2
 - **[cached_network_image](https://pub.dev/packages/cached_network_image)**: ^3.2.3
 - **[carousel_slider](https://pub.dev/packages/carousel_slider)**: ^4.2.1
-- **[cupertino_icons](https://pub.dev/packages/cupertino_icons)**: ^1.0.2
 - **[dartz](https://pub.dev/packages/dartz)**: ^0.10.1
 - **[dio](https://pub.dev/packages/dio)**: ^5.0.1
 - **[equatable](https://pub.dev/packages/equatable)**: ^2.0.5
@@ -55,6 +54,14 @@ Through this project, I have gained practical experience in:
 - **[get_it](https://pub.dev/packages/get_it)**: ^7.2.0
 - **[google_fonts](https://pub.dev/packages/google_fonts)**: ^4.0.3
 - **[shimmer](https://pub.dev/packages/shimmer)**: ^2.0.0
+
+## 📚 Course Details
+
+- **Course Name**: [Flutter Clean Architecture [2022] [Flutter 3] (In Arabic)](https://www.udemy.com/course/flutter-clean-architecture-2022-flutter-3-in-arabic)
+- **Instructor**: [Usama Elgendy](https://www.udemy.com/user/usama-elgindy)
+- **Certificate Issued To**: [Ayman Al-khatib](https://www.udemy.com/certificate/UC-a1b7cc9b-9bdc-4f17-b930-007e367b10a9)
+
+
 
 ## 🚀 Getting Started
 
