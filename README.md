@@ -11,12 +11,16 @@ This project is a Movies App built using Flutter, following the principles of Cl
 - **Movie Details**: See the rating, release year, and additional details about any movie.
 - **Similar Movies**: View a list of movies similar to the one you are currently viewing.
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="assets/screenshots/home_screen.png" alt="Home Screen" style="width: 30%;" />
-  <img src="assets/screenshots/movie_details_screen.png" alt="Movie Details Screen" style="width: 30%;" />
-  <img src="assets/screenshots/popular_movies.png" alt="Popular Movies Screen" style="width: 30%;" />
+<div style="display: flex; gap: 10; justify-content: space-between;">
+
+  <img src="assets/screenshots/home_screen.png" alt="Home Screen" style="width: 32%; max-width: 400px;">
+
+  <img src="assets/screenshots/movie_details_screen.png" alt="Movie Details" style="width: 32%; max-width: 400px;">
+
+  <img src="assets/screenshots/popular_movies.png" alt="Popular Movies" style="width: 32%; max-width: 400px;">
+
 </div>
 
 ## 🛠️ Technologies Used
